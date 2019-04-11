@@ -4,11 +4,11 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct ancestors
+## Direct feature ancestors
 
 Absent
 
-## Direct descendants
+## Direct feature descendants
 
 [zeit-now-monorepo-next-api](https://github.com/softspider/zeit-now-monorepo-next-api)
 
