@@ -1,0 +1,27 @@
+{
+  "name": "zeit-micro",
+  "version": "1.0.0",
+  "description": "Minimalistic example of Zeit/micro",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "micro": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softspider/zeit-micro.git"
+  },
+  "keywords": [
+    "micro",
+    "min",
+    "helloworld",
+    "zeit",
+    "ss"
+  ],
+  "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/capcross)",
+  "license": "MIT",
+  "homepage": "https://github.com/softspider/zeit-micro#readme"
+}
