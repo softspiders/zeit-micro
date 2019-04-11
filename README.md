@@ -26,6 +26,8 @@ yarn
 yarn start
 ```
 
+And open localhost:3000 in web-browser
+
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
