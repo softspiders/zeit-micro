@@ -10,7 +10,7 @@ Absent
 
 ## Direct descendants
 
-TBD...
+[zeit-now-monorepo-next-api](https://github.com/softspider/zeit-now-monorepo-next-api)
 
 ---
 
