@@ -26,7 +26,7 @@ yarn
 yarn start
 ```
 
-And open localhost:3000 in web-browser
+And open localhost:3000 in the web-browser
 
 ## Authors
 
