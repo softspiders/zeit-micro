@@ -1,14 +1,14 @@
+SOFTSPIDERS
+
 # Minimalistic example of Zeit/micro
 
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct feature ancestors
+---
 
-Absent
-
-## Direct feature descendants
+## Direct descendants
 
 [zeit-now-monorepo-next-api](https://github.com/softspider/zeit-now-monorepo-next-api)
 
@@ -20,6 +20,8 @@ Absent
 yarn
 ```
 
+---
+
 ## Running
 
 ```sh
@@ -28,9 +30,13 @@ yarn start
 
 And open localhost:3000 in the web-browser
 
+---
+
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
 
 ### License
 
