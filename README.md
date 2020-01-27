@@ -10,7 +10,7 @@ SOFTSPIDERS
 
 ## Direct descendants
 
-[zeit-now-monorepo-next-api](https://github.com/softspider/zeit-now-monorepo-next-api)
+[zeit-now-monorepo-next-api](https://github.com/softspiders/zeit-now-monorepo-next-api)
 
 ---
 
