@@ -1,16 +1,26 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # Minimalistic example of Zeit/micro
 
-## Requirements
+---
 
-[Node.js](https://nodejs.org/en/download/package-manager/)
+## Feature tags
+
+- starter
+- template
+- zeit
 
 ---
 
 ## Direct descendants
 
 [zeit-now-monorepo-next-api](https://github.com/softspiders/zeit-now-monorepo-next-api)
+
+---
+
+## Requirements
+
+[Node.js](https://nodejs.org/en/download/package-manager/)
 
 ---
 
